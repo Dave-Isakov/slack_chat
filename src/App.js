@@ -2,7 +2,6 @@ import channel from "./covid-jokes-channel.json";
 import threads from "./threads.json";
 import Container from "react-bootstrap/Container";
 import Badge from "react-bootstrap/Badge";
-import Image from 'react-bootstrap/Image'
 import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 
