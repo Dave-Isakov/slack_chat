@@ -1,0 +1,3440 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "feccbecc-968b-4aff-b3f6-197cb0dd682c",
+            "type": "message",
+            "text": "LOL",
+            "user": "U0STUPF54",
+            "ts": "1660687629.213029",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MFF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "LOL"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "d6cdb238-fa4c-4539-9ec8-c07152ff5afd",
+            "type": "message",
+            "text": "well that's depressing",
+            "user": "U0VD193PB",
+            "ts": "1660687074.678889",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "A50",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "well that's depressing"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "145d8b00-11c1-4c94-9f9e-140b956b47f9",
+            "type": "message",
+            "text": "jokes getting COVID and dying",
+            "user": "U0SUXE44U",
+            "ts": "1660685437.960309",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "E63",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "jokes getting COVID and dying"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "0bdec908-9c11-47af-870e-7288896107a0",
+            "type": "message",
+            "text": "fuck me dude what was this channel here for again ? lmao",
+            "user": "U0VD193PB",
+            "ts": "1660684357.882479",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jBX0a",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "fuck me dude what was this channel here for again ? lmao"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "F03U9LLP2U9",
+                    "created": 1660682406,
+                    "timestamp": 1660682406,
+                    "name": "Screen Shot 2020-05-28 at 9.41.47 PM.png",
+                    "title": "Screen Shot 2020-05-28 at 9.41.47 PM.png",
+                    "mimetype": "image/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0CMM0630",
+                    "user_team": "T0CMQMQTB",
+                    "editable": false,
+                    "size": 194063,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://files.slack.com/files-pri/T0CMQMQTB-F03U9LLP2U9/screen_shot_2020-05-28_at_9.41.47_pm.png",
+                    "url_private_download": "https://files.slack.com/files-pri/T0CMQMQTB-F03U9LLP2U9/download/screen_shot_2020-05-28_at_9.41.47_pm.png",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_64.png",
+                    "thumb_80": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_80.png",
+                    "thumb_360": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 148,
+                    "thumb_480": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 198,
+                    "thumb_160": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_160.png",
+                    "thumb_720": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 297,
+                    "thumb_800": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 330,
+                    "thumb_960": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_960.png",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 396,
+                    "thumb_1024": "https://files.slack.com/files-tmb/T0CMQMQTB-F03U9LLP2U9-57de0d90ad/screen_shot_2020-05-28_at_9.41.47_pm_1024.png",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 422,
+                    "original_w": 2192,
+                    "original_h": 904,
+                    "thumb_tiny": "AwATADC+pzyOP+A08H3pgJP3gQf96njHrQAtFFGKACk59aXFJj60ALRRRQAUUUUAFFFFAH//2Q==",
+                    "permalink": "https://zellephism.slack.com/files/U0CMM0630/F03U9LLP2U9/screen_shot_2020-05-28_at_9.41.47_pm.png",
+                    "permalink_public": "https://slack-files.com/T0CMQMQTB-F03U9LLP2U9-4f986a3395",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U0CMM0630",
+            "display_as_bot": false,
+            "ts": "1660682410.424969",
+            "client_msg_id": "78820edc-087c-4e93-bf21-59c3b141aad7"
+        },
+        {
+            "client_msg_id": "ff5567bd-e8ac-404f-8764-3f19db7f8e57",
+            "type": "message",
+            "text": "everyone remember",
+            "user": "U0CMM0630",
+            "ts": "1660682403.743289",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9Rd=r",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "everyone remember"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "I am not sure if this is what we meant but....",
+            "user": "U0CMM0630",
+            "ts": "1639107416.001700",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "DRr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I am not sure if this is what we meant but...."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "ts": "1639107387.003500",
+                    "author_id": "U0CMM0630",
+                    "channel_team": "T0CMQMQTB",
+                    "channel_id": "CNDA4RN07",
+                    "channel_name": "gaming-borderlands3_2022",
+                    "is_msg_unfurl": true,
+                    "message_blocks": [
+                        {
+                            "team": "T0CMQMQTB",
+                            "channel": "CNDA4RN07",
+                            "ts": "1639107387.003500",
+                            "message": {
+                                "blocks": [
+                                    {
+                                        "type": "rich_text",
+                                        "block_id": "qRQz",
+                                        "elements": [
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "wow, wasn't expecting a dead alex trebek joke"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CNDA4RN07/p1639107387003500",
+                    "is_share": true,
+                    "fallback": "[December 9th, 2021 10:36 PM] dan: wow, wasn't expecting a dead alex trebek joke",
+                    "text": "wow, wasn't expecting a dead alex trebek joke",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2020-06-15/1184037300997_a5bc028d61dc1d5a464e_48.png",
+                    "author_subname": "Dan Hore",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "footer": "Posted in #gaming-borderlands3_2022"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "088dabfb-c91e-4ae4-a4a2-4cc01f253c69",
+            "type": "message",
+            "text": "me looking for the pun in \"self-are\"",
+            "user": "U0SUXE44U",
+            "ts": "1638311084.001600",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "81mS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "me looking for the pun in \"self-are\""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "bot_id": "B0SUR0UUU",
+            "type": "message",
+            "text": "searching",
+            "user": "U0SUXE44U",
+            "ts": "1638311075.001300",
+            "blocks": [
+                {
+                    "type": "image",
+                    "block_id": "n9x",
+                    "image_url": "https://media4.giphy.com/media/9EmupLytNQLgrQTmxg/giphy-downsized.gif?cid=6104955edd2d18b2e62cb0a6d544c925462cc86aaf392994&rid=giphy-downsized.gif&ct=g",
+                    "alt_text": "searching",
+                    "title": {
+                        "type": "plain_text",
+                        "text": "searching",
+                        "emoji": true
+                    },
+                    "fallback": "480x270px image",
+                    "image_width": 480,
+                    "image_height": 270,
+                    "image_bytes": 1768817,
+                    "is_animated": true
+                },
+                {
+                    "type": "context",
+                    "block_id": "w4Jd",
+                    "elements": [
+                        {
+                            "type": "image",
+                            "image_url": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_32.png",
+                            "alt_text": "giphy logo"
+                        },
+                        {
+                            "type": "mrkdwn",
+                            "text": "Posted using /giphy | GIF by <https://giphy.com/thismorning/|This Morning>",
+                            "verbatim": false
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "bot_profile": {
+                "id": "B0SUR0UUU",
+                "deleted": false,
+                "name": "giphy",
+                "updated": 1458076064,
+                "app_id": "A0F827J2C",
+                "icons": {
+                    "image_36": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png",
+                    "image_48": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_48.png",
+                    "image_72": "https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png"
+                },
+                "team_id": "T0CMQMQTB"
+            }
+        },
+        {
+            "client_msg_id": "3a498f3f-81ad-44c9-9f99-fac3a38f857c",
+            "type": "message",
+            "text": "I assume a typo for self-aware",
+            "user": "U0VHPF3LJ",
+            "ts": "1638310979.000900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "L9e7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I assume a typo for self-aware"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "5b2237eb-c470-4a90-a0c2-d1575201736c",
+            "type": "message",
+            "text": "what's self-are",
+            "user": "U0SUXE44U",
+            "ts": "1638310954.000500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qK1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "what's self-are"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "40dff8b1-47d6-4f40-abcd-a65b5aeaf65d",
+            "type": "message",
+            "text": "tbh i don't get it",
+            "user": "U0SUXE44U",
+            "ts": "1638310933.000300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ySf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "tbh i don't get it"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "does this channel still exist? huh.",
+            "user": "U0CMM0630",
+            "ts": "1638309783.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wq2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "does this channel still exist? huh."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[November 30th, 2021 4:51 PM] aasiegler: Well, all my posts here are, but I try not to be self-are most of the time.",
+                    "ts": "1638309117.039200",
+                    "author_id": "U4SBKSRQF",
+                    "author_subname": "Aaron Siegler",
+                    "channel_team": "T0CMQMQTB",
+                    "channel_id": "C0CMJK57V",
+                    "channel_name": "general",
+                    "is_msg_unfurl": true,
+                    "text": "Well, all my posts here are, but I try not to be self-are most of the time.",
+                    "message_blocks": [
+                        {
+                            "team": "T0CMQMQTB",
+                            "channel": "C0CMJK57V",
+                            "ts": "1638309117.039200",
+                            "message": {
+                                "blocks": [
+                                    {
+                                        "type": "rich_text",
+                                        "block_id": "gCf",
+                                        "elements": [
+                                            {
+                                                "type": "rich_text_section",
+                                                "elements": [
+                                                    {
+                                                        "type": "text",
+                                                        "text": "Well, all my posts here are, but I try not to be self-are most of the time."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "author_name": "Aaron Siegler",
+                    "author_link": "https://zellephism.slack.com/team/U4SBKSRQF",
+                    "author_icon": "https://secure.gravatar.com/avatar/2360bf0c43f0dd685c3dc89db5e485a0.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0CMJK57V/p1638309117039200",
+                    "is_share": true,
+                    "footer": "Posted in #general"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "It's the self-congratulations for me",
+            "user": "U0CMM0630",
+            "ts": "1613321825.000600",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tNiP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "It's the self-congratulations for me"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[February 14th, 2021 11:51 AM] rtortora: :sunglasses:",
+                    "ts": "1613321513.000400",
+                    "author_id": "U0STUPF54",
+                    "author_subname": "Rick",
+                    "channel_id": "CUTQ5QRT5",
+                    "channel_name": "covid-19-joke-deaths",
+                    "is_msg_unfurl": true,
+                    "text": ":sunglasses:",
+                    "author_name": "Rick",
+                    "author_link": "https://zellephism.slack.com/team/U0STUPF54",
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-01/163187898818_8e033ca0f986b6262ffb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUTQ5QRT5/p1613321513000400",
+                    "is_share": true,
+                    "footer": "Posted in #covid-19-joke-deaths"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "point_up",
+                    "users": [
+                        "U0SUXE44U"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": ":sunglasses:",
+            "user": "U0STUPF54",
+            "ts": "1613321513.000400",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LClqR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "sunglasses",
+                                    "unicode": "1f60e"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[February 14th, 2021 11:51 AM] rtortora: :redcard: please move this discussion to #channel-creation-inquiry-panel-phase-1",
+                    "ts": "1613321483.146100",
+                    "author_id": "U0STUPF54",
+                    "author_subname": "Rick",
+                    "channel_id": "C0CMJK57V",
+                    "channel_name": "general",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": ":redcard: please move this discussion to #channel-creation-inquiry-panel-phase-1",
+                    "author_name": "Rick",
+                    "author_link": "https://zellephism.slack.com/team/U0STUPF54",
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-01/163187898818_8e033ca0f986b6262ffb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0CMJK57V/p1613321483146100?thread_ts=1613320326144400&cid=C0CMJK57V",
+                    "is_share": true,
+                    "footer": "From a thread in #general"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "joy",
+                    "users": [
+                        "U0CMM0630",
+                        "U0SUXE44U"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "no context",
+            "user": "U0CMM0630",
+            "ts": "1612904654.000300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Qek28",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "no context"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[February 9th, 2021 3:51 PM] aasiegler: I forgot about covid",
+                    "ts": "1612903862.060400",
+                    "author_id": "U4SBKSRQF",
+                    "author_subname": "Aaron Siegler",
+                    "channel_id": "C0CMJK57V",
+                    "channel_name": "general",
+                    "is_msg_unfurl": true,
+                    "text": "I forgot about covid",
+                    "author_name": "Aaron Siegler",
+                    "author_link": "https://zellephism.slack.com/team/U4SBKSRQF",
+                    "author_icon": "https://secure.gravatar.com/avatar/2360bf0c43f0dd685c3dc89db5e485a0.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0CMJK57V/p1612903862060400",
+                    "is_share": true,
+                    "footer": "Posted in #general"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "This is the best ted talk about a ted talk ever thank you and goodnight",
+            "user": "U0SUXE44U",
+            "ts": "1611772761.000200",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SejxB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "This is the best ted talk about a ted talk ever thank you and goodnight"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[January 27th, 2021 12:27 PM] dan: This is the best ted talk ever thank you and goodnight",
+                    "ts": "1611768459.000100",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUTQ5QRT5",
+                    "channel_name": "covid-19-joke-deaths",
+                    "is_msg_unfurl": true,
+                    "text": "This is the best ted talk ever thank you and goodnight",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2020-06-15/1184037300997_a5bc028d61dc1d5a464e_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUTQ5QRT5/p1611768459000100",
+                    "is_share": true,
+                    "footer": "Posted in #covid-19-joke-deaths"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "This is the best ted talk ever thank you and goodnight",
+            "user": "U0CMM0630",
+            "ts": "1611768459.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Ees",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "This is the best ted talk ever thank you and goodnight"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[January 27th, 2021 12:08 PM] choirsoftheeye: <https://store.steampowered.com/app/709920/Tametsi/> is the greatest game ever thank you and goodnight",
+                    "ts": "1611767286.319500",
+                    "author_id": "U0SUXE44U",
+                    "author_subname": "Jasper",
+                    "channel_id": "C0STN14JX",
+                    "channel_name": "gaming",
+                    "is_msg_unfurl": true,
+                    "text": "<https://store.steampowered.com/app/709920/Tametsi/> is the greatest game ever thank you and goodnight",
+                    "author_name": "Jasper",
+                    "author_link": "https://zellephism.slack.com/team/U0SUXE44U",
+                    "author_icon": "https://avatars.slack-edge.com/2016-04-18/35771724357_728e433445b3f9f7e518_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0STN14JX/p1611767286319500",
+                    "is_share": true,
+                    "footer": "Posted in #gaming"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "This is germane because I say so",
+            "user": "U0VHPF3LJ",
+            "ts": "1608741587.006600",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UiV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "This is germane because I say so"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[December 23rd, 2020 9:52 AM] aasiegler: so by the transitive property of applying the transitive property wrong, listening to the song Boy Problems from CRJ's album Emotion is gaming",
+                    "ts": "1608738721.036900",
+                    "author_id": "U4SBKSRQF",
+                    "author_subname": "Aaron Siegler",
+                    "channel_id": "C0STN14JX",
+                    "channel_name": "gaming",
+                    "is_msg_unfurl": true,
+                    "text": "so by the transitive property of applying the transitive property wrong, listening to the song Boy Problems from CRJ's album Emotion is gaming",
+                    "author_name": "Aaron Siegler",
+                    "author_link": "https://zellephism.slack.com/team/U4SBKSRQF",
+                    "author_icon": "https://secure.gravatar.com/avatar/2360bf0c43f0dd685c3dc89db5e485a0.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0STN14JX/p1608738721036900",
+                    "is_share": true,
+                    "footer": "Posted in #gaming"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "nod",
+                    "users": [
+                        "U0CMM0630"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "F2CB78BB-D1B5-49CC-BF12-F222BB15AD80",
+            "type": "message",
+            "text": "<https://twitter.com/organik_music/status/1341256481937698816|https://twitter.com/organik_music/status/1341256481937698816>",
+            "user": "U5VDCCWN5",
+            "ts": "1608635552.006300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/74",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https://twitter.com/organik_music/status/1341256481937698816",
+                                    "text": "https://twitter.com/organik_music/status/1341256481937698816"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "<https://twitter.com/organik_music|@organik_music>: <https://pbs.twimg.com/media/Ep0ZqMkXEAA1X6A.jpg>",
+                    "ts": 1608615439,
+                    "author_name": "Orgaaninen Musiikki Ukko",
+                    "author_link": "https://twitter.com/organik_music/status/1341256481937698816",
+                    "author_icon": "https://pbs.twimg.com/profile_images/1314709086458589186/3N8guy6l_normal.jpg",
+                    "author_subname": "@organik_music",
+                    "text": "<https://pbs.twimg.com/media/Ep0ZqMkXEAA1X6A.jpg>",
+                    "service_name": "twitter",
+                    "service_url": "https://twitter.com/",
+                    "from_url": "https://twitter.com/organik_music/status/1341256481937698816",
+                    "image_url": "https://pbs.twimg.com/media/Ep0ZqMkXEAA1X6A.jpg",
+                    "image_width": 750,
+                    "image_height": 573,
+                    "image_bytes": 103476,
+                    "id": 1,
+                    "original_url": "https://twitter.com/organik_music/status/1341256481937698816",
+                    "footer": "Twitter",
+                    "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "amazing",
+                    "users": [
+                        "U0CMM0630"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "5eff9552-c14c-4957-8d0a-e412643445bf",
+            "type": "message",
+            "text": "\"I am so and so\" is her shtick",
+            "user": "U0CMM0630",
+            "ts": "1605933352.005400",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "s3P",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\"I am so and so\" is her shtick"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "99f1d76c-71bf-41b2-95e7-0503624c7d1c",
+            "type": "message",
+            "text": "<https://twitter.com/blaireerskine/status/1303845467718062080>",
+            "user": "U0CMM0630",
+            "ts": "1605933326.004900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fDL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https://twitter.com/blaireerskine/status/1303845467718062080"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "<https://twitter.com/blaireerskine|@blaireerskine>: I am Tom Cotton’s wife and I have some things to say!! <https://pbs.twimg.com/ext_tw_video_thumb/1303845141829095430/pu/img/PewfAezovBFmgZnb.jpg>",
+                    "ts": 1599695958,
+                    "author_name": "blaire erskine",
+                    "author_link": "https://twitter.com/blaireerskine/status/1303845467718062080",
+                    "author_icon": "https://pbs.twimg.com/profile_images/1328485171050504192/B7JsU0Sa_normal.jpg",
+                    "author_subname": "@blaireerskine",
+                    "text": "I am Tom Cotton’s wife and I have some things to say!!",
+                    "service_name": "twitter",
+                    "service_url": "https://twitter.com/",
+                    "from_url": "https://twitter.com/blaireerskine/status/1303845467718062080",
+                    "thumb_url": "https://pbs.twimg.com/ext_tw_video_thumb/1303845141829095430/pu/img/PewfAezovBFmgZnb.jpg",
+                    "thumb_width": 1200,
+                    "thumb_height": 675,
+                    "video_html_width": 1200,
+                    "video_html_height": 675,
+                    "video_html": "<video controls poster=\"https://pbs.twimg.com/ext_tw_video_thumb/1303845141829095430/pu/img/PewfAezovBFmgZnb.jpg\" width=\"1200\" height=\"675\"><source type=\"video/mp4\" src=\"https://video.twimg.com/ext_tw_video/1303845141829095430/pu/vid/1280x720/k4uhzZlUZ4pPW250.mp4?tag=10\"></video>",
+                    "id": 1,
+                    "original_url": "https://twitter.com/blaireerskine/status/1303845467718062080",
+                    "footer": "Twitter",
+                    "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "5766de58-0413-43a9-bb5a-73804d717496",
+            "type": "message",
+            "text": "that's, uh, not his daughter. She is a comedian. <https://twitter.com/blaireerskine/status/1329539119727468547>",
+            "user": "U0CMM0630",
+            "ts": "1605933243.004600",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OWaI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "that's, uh, not his daughter. She is a comedian. "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://twitter.com/blaireerskine/status/1329539119727468547"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "<https://twitter.com/blaireerskine|@blaireerskine>: Kelly Stafford says she’s “so tired of living in a dictatorship” <https://pbs.twimg.com/ext_tw_video_thumb/1329538911094312961/pu/img/vXFC6tsUeouBypP5.jpg>",
+                    "ts": 1605821802,
+                    "author_name": "blaire erskine",
+                    "author_link": "https://twitter.com/blaireerskine/status/1329539119727468547",
+                    "author_icon": "https://pbs.twimg.com/profile_images/1328485171050504192/B7JsU0Sa_normal.jpg",
+                    "author_subname": "@blaireerskine",
+                    "text": "Kelly Stafford says she’s “so tired of living in a dictatorship”",
+                    "service_name": "twitter",
+                    "service_url": "https://twitter.com/",
+                    "from_url": "https://twitter.com/blaireerskine/status/1329539119727468547",
+                    "thumb_url": "https://pbs.twimg.com/ext_tw_video_thumb/1329538911094312961/pu/img/vXFC6tsUeouBypP5.jpg",
+                    "thumb_width": 675,
+                    "thumb_height": 1200,
+                    "video_html_width": 675,
+                    "video_html_height": 1200,
+                    "video_html": "<video controls poster=\"https://pbs.twimg.com/ext_tw_video_thumb/1329538911094312961/pu/img/vXFC6tsUeouBypP5.jpg\" width=\"675\" height=\"1200\"><source type=\"video/mp4\" src=\"https://video.twimg.com/ext_tw_video/1329538911094312961/pu/vid/720x1280/JaTYj5h3NdG1_EYE.mp4?tag=10\"></video>",
+                    "id": 1,
+                    "original_url": "https://twitter.com/blaireerskine/status/1329539119727468547",
+                    "footer": "Twitter",
+                    "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d5986d16-b00c-45fe-91bb-2574040d3777",
+            "type": "message",
+            "text": "oof",
+            "user": "U0STUPF54",
+            "ts": "1605926428.003800",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GCYnM",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oof"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "AA348BC8-3137-4AA2-A06C-F428F755738E",
+            "type": "message",
+            "text": "It could just a random funny person for all I know",
+            "user": "U5VDCCWN5",
+            "ts": "1605916478.003600",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jfN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "It could just a random funny person for all I know"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "F56A4B9F-6AF4-429E-9228-BE79CE85BD6D",
+            "type": "message",
+            "text": "According to Twitter, this is the daughter of Rick Scott (R) - <https://twitter.com/blaireerskine/status/1329844449426468865|https://twitter.com/blaireerskine/status/1329844449426468865>",
+            "user": "U5VDCCWN5",
+            "ts": "1605916441.002600",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3NSzH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "According to Twitter, this is the daughter of Rick Scott (R) - "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://twitter.com/blaireerskine/status/1329844449426468865",
+                                    "text": "https://twitter.com/blaireerskine/status/1329844449426468865"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "<https://twitter.com/blaireerskine|@blaireerskine>: Wow Rick Scott’s daughter just posted this on Instagram <https://pbs.twimg.com/ext_tw_video_thumb/1329844201706631168/pu/img/DFq6pga402lEuhLb.jpg>",
+                    "ts": 1605894598,
+                    "author_name": "blaire erskine",
+                    "author_link": "https://twitter.com/blaireerskine/status/1329844449426468865",
+                    "author_icon": "https://pbs.twimg.com/profile_images/1328485171050504192/B7JsU0Sa_normal.jpg",
+                    "author_subname": "@blaireerskine",
+                    "text": "Wow Rick Scott’s daughter just posted this on Instagram",
+                    "service_name": "twitter",
+                    "service_url": "https://twitter.com/",
+                    "from_url": "https://twitter.com/blaireerskine/status/1329844449426468865",
+                    "thumb_url": "https://pbs.twimg.com/ext_tw_video_thumb/1329844201706631168/pu/img/DFq6pga402lEuhLb.jpg",
+                    "thumb_width": 675,
+                    "thumb_height": 1200,
+                    "video_html_width": 675,
+                    "video_html_height": 1200,
+                    "video_html": "<video controls poster=\"https://pbs.twimg.com/ext_tw_video_thumb/1329844201706631168/pu/img/DFq6pga402lEuhLb.jpg\" width=\"675\" height=\"1200\"><source type=\"video/mp4\" src=\"https://video.twimg.com/ext_tw_video/1329844201706631168/pu/vid/720x1280/4lkULS3Q-tSk4XnH.mp4?tag=10\"></video>",
+                    "id": 1,
+                    "original_url": "https://twitter.com/blaireerskine/status/1329844449426468865",
+                    "footer": "Twitter",
+                    "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "988a36b7-dda4-404e-a1e1-5cc41697ab9b",
+            "type": "message",
+            "text": "ALWAYS JASPER",
+            "user": "U0SUXE44U",
+            "ts": "1604447888.000900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "e0p0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ALWAYS JASPER"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "I am now tempted to rename this channel to #always-jasper",
+            "user": "U0VHPF3LJ",
+            "ts": "1604447386.000700",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xuPUT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I am now tempted to rename this channel to #always-jasper"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[November 3rd, 2020 5:32 PM] dan: Reminder: #always-jasper for your always about Jasper takes",
+                    "ts": "1604446369.159100",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "C0T1FGXDG",
+                    "channel_name": "politics",
+                    "is_msg_unfurl": true,
+                    "text": "Reminder: #always-jasper for your always about Jasper takes",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2020-06-15/1184037300997_a5bc028d61dc1d5a464e_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0T1FGXDG/p1604446369159100",
+                    "is_share": true,
+                    "footer": "Posted in #politics"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "user": "U0VHPF3LJ",
+            "ts": "1603827691.000300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8nZQX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[October 27th, 2020 2:41 PM] niru72: Sounds like we need a #covid-politics-but-its-also-vampires channel",
+                    "ts": "1603827663.032800",
+                    "author_id": "U0VHPF3LJ",
+                    "author_subname": "Jamie Macia",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "Sounds like we need a #covid-politics-but-its-also-vampires channel",
+                    "author_name": "Jamie Macia",
+                    "author_link": "https://zellephism.slack.com/team/U0VHPF3LJ",
+                    "author_icon": "https://avatars.slack-edge.com/2016-05-19/44354692786_9e0a5ffa698a7d67a3a3_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1603827663032800?thread_ts=1603827138029300&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "From a thread in #public-health"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "U0STUPF54",
+                        "U0CMM0630",
+                        "U0VD193PB"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "#perfect",
+            "user": "U0STUPF54",
+            "ts": "1601931342.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YtK6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "#perfect"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[October 5th, 2020 4:51 PM] dan: but in answer to your actual question Aaron, if you want discussion, the policy is to make a channel called #spoilers-55-year-old-books-that-are-also-36-year-old-movies-but-also-the-first-half-of-the-book-is-going-to-be-a-movie-later-this-year-that-I'm-hoping-for-people's-safety-they-dont-go-and-see-until-next-year",
+                    "ts": "1601931105.020900",
+                    "msg_subtype": "thread_broadcast",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "C0CMM063Y",
+                    "channel_name": "random",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "but in answer to your actual question Aaron, if you want discussion, the policy is to make a channel called #spoilers-55-year-old-books-that-are-also-36-year-old-movies-but-also-the-first-half-of-the-book-is-going-to-be-a-movie-later-this-year-that-I'm-hoping-for-people's-safety-they-dont-go-and-see-until-next-year",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2020-06-15/1184037300997_a5bc028d61dc1d5a464e_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0CMM063Y/p1601931105020900?thread_ts=1601926753014800&cid=C0CMM063Y",
+                    "is_share": true,
+                    "footer": "From a thread in #random"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "hugging_face",
+                    "users": [
+                        "U0CMM0630"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "YES",
+            "user": "U0STUPF54",
+            "ts": "1599673167.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "C+Z",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "YES"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[September 9th, 2020 1:39 PM] dan: clearly it belongs in <#CUTQ5QRT5|covid-19-joke-deaths>",
+                    "ts": "1599673141.007400",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "C0CMJK57V",
+                    "channel_name": "general",
+                    "is_msg_unfurl": true,
+                    "text": "clearly it belongs in <#CUTQ5QRT5|covid-19-joke-deaths>",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2020-06-15/1184037300997_a5bc028d61dc1d5a464e_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0CMJK57V/p1599673141007400",
+                    "is_share": true,
+                    "footer": "Posted in #general"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "ea39d41b-e975-4a70-b270-cef72523707c",
+            "type": "message",
+            "text": "Yeah",
+            "user": "U0CMM0630",
+            "ts": "1597162572.001400",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gtm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Yeah"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "1e1f353a-ee35-4eed-a542-647cdd319759",
+            "type": "message",
+            "text": "arent there like 100 members?",
+            "user": "U0STUPF54",
+            "ts": "1597162561.001200",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "K8nb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "arent there like 100 members?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "5b6bf599-00fd-4750-9539-b741b582691f",
+            "type": "message",
+            "text": "hahaha",
+            "user": "U0STUPF54",
+            "ts": "1597162547.000700",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gPb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "hahaha"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "8a64026f-43e3-48c8-b28b-23943e8d1e81",
+            "type": "message",
+            "text": "Fuck, this channel’s history is the only reason I’d consider paying an absorbantant amount of money to get our slack history",
+            "user": "U0CMM0630",
+            "ts": "1597159782.000500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "17lo2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Fuck, this channel’s history is the only reason I’d consider paying an absorbantant amount of money to get our slack history"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "48fbde13-3e6d-4ee9-b6a6-4a550e84e91d",
+            "type": "message",
+            "text": "i feel like i did not adequately get that joke",
+            "user": "U0SUXE44U",
+            "ts": "1594729482.001000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "kNv3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "i feel like i did not adequately get that joke"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "thread_ts": "1594729482.001000",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1594736970.001300",
+            "reply_users": [
+                "U0VHPF3LJ",
+                "U0SUXE44U"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        {
+            "type": "message",
+            "text": "wow.",
+            "user": "U0CMM0630",
+            "ts": "1594700844.000700",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cczTe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "wow."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[July 13th, 2020 10:53 PM] niru72: Shit, my model was assuming spherical sadlawfacts of uniform density",
+                    "ts": "1594695226.021800",
+                    "author_id": "U0VHPF3LJ",
+                    "author_subname": "Jamie Macia",
+                    "channel_id": "C016LGMN15M",
+                    "channel_name": "unclejasperssadlawfacts",
+                    "is_msg_unfurl": true,
+                    "text": "Shit, my model was assuming spherical sadlawfacts of uniform density",
+                    "author_name": "Jamie Macia",
+                    "author_link": "https://zellephism.slack.com/team/U0VHPF3LJ",
+                    "author_icon": "https://avatars.slack-edge.com/2016-05-19/44354692786_9e0a5ffa698a7d67a3a3_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C016LGMN15M/p1594695226021800",
+                    "is_share": true,
+                    "footer": "Posted in #unclejasperssadlawfacts"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1593115549.000200",
+            "user": "U0SUXE44U",
+            "text": "<@U0SUXE44U> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": ":fire:",
+            "user": "U0STUPF54",
+            "ts": "1592325895.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "O3j6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "fire",
+                                    "unicode": "1f525"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[June 16th, 2020 12:33 PM] choirsoftheeye: yes, there are ... (checks number of channels) 31 of them",
+                    "ts": "1592325234.417900",
+                    "author_id": "U0SUXE44U",
+                    "author_subname": "Jasper",
+                    "channel_id": "C0STN14JX",
+                    "channel_name": "gaming",
+                    "is_msg_unfurl": true,
+                    "text": "yes, there are ... (checks number of channels) 31 of them",
+                    "author_name": "Jasper",
+                    "author_link": "https://zellephism.slack.com/team/U0SUXE44U",
+                    "author_icon": "https://avatars.slack-edge.com/2016-04-18/35771724357_728e433445b3f9f7e518_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0STN14JX/p1592325234417900",
+                    "is_share": true,
+                    "footer": "Posted in #gaming"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1590770633.002800",
+            "user": "U578WQRRV",
+            "text": "<@U578WQRRV> has joined the channel"
+        },
+        {
+            "type": "message",
+            "subtype": "bot_message",
+            "text": "petition to rename channel to #channel-roasts",
+            "ts": "1590716667.001800",
+            "bot_id": "B7K55KG65",
+            "blocks": [
+                {
+                    "type": "section",
+                    "block_id": "poll-939f52f2-5df5-4976-8ef6-f6a34b147230-title-and-menu",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": "*petition to rename channel to #channel-roasts*",
+                        "verbatim": false
+                    },
+                    "accessory": {
+                        "type": "overflow",
+                        "action_id": "title-and-menu",
+                        "options": [
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":information_source: View info",
+                                    "emoji": true
+                                },
+                                "value": "view_info"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":pushpin: Capture Decision from Poll",
+                                    "emoji": true
+                                },
+                                "value": "capture_decision_from_poll"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":x: Delete Poll",
+                                    "emoji": true
+                                },
+                                "value": "delete_poll"
+                            },
+                            {
+                                "text": {
+                                    "type": "plain_text",
+                                    "text": ":gear: Go to Settings",
+                                    "emoji": true
+                                },
+                                "value": "go_to_settings_from_poll",
+                                "url": "https://simplepoll.rocks/dashboard/zellephism/settings/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "block_id": "poll-939f52f2-5df5-4976-8ef6-f6a34b147230-vote-1",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": ":one: how dare you    `4`\n<@U0STUPF54>, <@U0CMM0630>, <@U0VHPF3LJ>, <@U0SUXE44U>",
+                        "verbatim": false
+                    },
+                    "accessory": {
+                        "type": "button",
+                        "action_id": "vote-1",
+                        "text": {
+                            "type": "plain_text",
+                            "text": ":one:",
+                            "emoji": true
+                        }
+                    }
+                },
+                {
+                    "type": "section",
+                    "block_id": "poll-939f52f2-5df5-4976-8ef6-f6a34b147230-vote-2",
+                    "text": {
+                        "type": "mrkdwn",
+                        "text": ":two: how dare you    `4`\n<@U0CMM0630>, <@U0VHPF3LJ>, <@U5VDCCWN5>, <@U0SUXE44U>",
+                        "verbatim": false
+                    },
+                    "accessory": {
+                        "type": "button",
+                        "action_id": "vote-2",
+                        "text": {
+                            "type": "plain_text",
+                            "text": ":two:",
+                            "emoji": true
+                        }
+                    }
+                },
+                {
+                    "type": "context",
+                    "block_id": "2ji=z",
+                    "elements": [
+                        {
+                            "type": "mrkdwn",
+                            "text": "Created by <@U0STUPF54> with /poll",
+                            "verbatim": false
+                        }
+                    ]
+                }
+            ],
+            "attachments": [
+                {
+                    "text": "Please update to the latest version of Simple Poll :bar_chart:\n<https://simplepoll.rocks/auth/add_to_slack_start/?source=update_simplepoll|Update Simple Poll>  •  <https://blog.simplepoll.rocks/updating-simple-poll/|Learn more>",
+                    "id": 1,
+                    "color": "daa038",
+                    "fallback": "Please update to the latest version of Simple Poll :bar_chart:\n<https://simplepoll.rocks/auth/add_to_slack_start/?source=update_simplepoll|Update Simple Poll>  •  <https://blog.simplepoll.rocks/updating-simple-poll/|Learn more>"
+                }
+            ],
+            "edited": {
+                "user": "B7K55KG65",
+                "ts": "1593115553.000000"
+            }
+        },
+        {
+            "client_msg_id": "6452ae88-c32d-42ba-8383-3af8e112481d",
+            "type": "message",
+            "text": "lol",
+            "user": "U0STUPF54",
+            "ts": "1590716593.001300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "j7iK7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "lol"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "This is my favorite screenshot ever:",
+            "files": [
+                {
+                    "id": "F014G3WP950",
+                    "created": 1590716566,
+                    "timestamp": 1590716566,
+                    "name": "Screen Shot 2020-05-28 at 9.41.47 PM.png",
+                    "title": "Screen Shot 2020-05-28 at 9.41.47 PM.png",
+                    "mimetype": "image/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0CMM0630",
+                    "user_team": "T0CMQMQTB",
+                    "editable": false,
+                    "size": 194063,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://files.slack.com/files-pri/T0CMQMQTB-F014G3WP950/screen_shot_2020-05-28_at_9.41.47_pm.png",
+                    "url_private_download": "https://files.slack.com/files-pri/T0CMQMQTB-F014G3WP950/download/screen_shot_2020-05-28_at_9.41.47_pm.png",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_64.png",
+                    "thumb_80": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_80.png",
+                    "thumb_360": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 148,
+                    "thumb_480": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 198,
+                    "thumb_160": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_160.png",
+                    "thumb_720": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 297,
+                    "thumb_800": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 330,
+                    "thumb_960": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_960.png",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 396,
+                    "thumb_1024": "https://files.slack.com/files-tmb/T0CMQMQTB-F014G3WP950-c87f809fb2/screen_shot_2020-05-28_at_9.41.47_pm_1024.png",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 422,
+                    "original_w": 2192,
+                    "original_h": 904,
+                    "thumb_tiny": "AwATADC+pzyOP+A08H3pgJP3gQf96njHrQAtFFGKACk59aXFJj60ALRRRQAUUUUAFFFFAH//2Q==",
+                    "permalink": "https://zellephism.slack.com/files/U0CMM0630/F014G3WP950/screen_shot_2020-05-28_at_9.41.47_pm.png",
+                    "permalink_public": "https://slack-files.com/T0CMQMQTB-F014G3WP950-938cb9d661",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U0CMM0630",
+            "display_as_bot": false,
+            "ts": "1590716568.000900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jkz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "This is my favorite screenshot ever:"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "heart",
+                    "users": [
+                        "U0SUXE44U"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "LOL YEAH RIGHT LONG LIVE",
+            "user": "U0STUPF54",
+            "ts": "1590715507.000500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4cf5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "LOL YEAH RIGHT LONG LIVE"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[May 28th, 2020 9:24 PM] rtortora: this is my favorite new channel, RIP <#CUTQ5QRT5|covid-19-joke-deaths>",
+                    "ts": "1590715477.019700",
+                    "author_id": "U0STUPF54",
+                    "author_subname": "Rick",
+                    "channel_id": "C6QHMUVKM",
+                    "channel_name": "channel-announcements",
+                    "is_msg_unfurl": true,
+                    "text": "this is my favorite new channel, RIP <#CUTQ5QRT5|covid-19-joke-deaths>",
+                    "author_name": "Rick",
+                    "author_link": "https://zellephism.slack.com/team/U0STUPF54",
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-01/163187898818_8e033ca0f986b6262ffb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C6QHMUVKM/p1590715477019700",
+                    "is_share": true,
+                    "footer": "Posted in #channel-announcements"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "now THIS is dedication to the joke",
+            "user": "U0CMM0630",
+            "ts": "1590711088.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zua",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "now THIS is dedication to the joke"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[May 28th, 2020 7:54 PM] aweisman: Please don’t confuse it with the other new channel <#C014EJH2NP7|chanel-annoucements> ",
+                    "ts": "1590710058.019000",
+                    "author_id": "U3NQUSZV2",
+                    "author_subname": "Alix Weisman",
+                    "channel_id": "C6QHMUVKM",
+                    "channel_name": "channel-announcements",
+                    "is_msg_unfurl": true,
+                    "text": "Please don’t confuse it with the other new channel <#C014EJH2NP7|chanel-annoucements> ",
+                    "author_name": "Alix Weisman",
+                    "author_link": "https://zellephism.slack.com/team/U3NQUSZV2",
+                    "author_icon": "https://avatars.slack-edge.com/2017-05-26/188514665747_7ab34b0848deecac6adb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C6QHMUVKM/p1590710058019000",
+                    "is_share": true,
+                    "footer": "Posted in #channel-announcements"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "joy_cat",
+                    "users": [
+                        "U0VD193PB"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "joy",
+                    "users": [
+                        "U0VD193PB",
+                        "U0STUPF54",
+                        "U0SUXE44U"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "trollface",
+                    "users": [
+                        "U0VD193PB"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Thread. :100:",
+            "user": "U0CMM0630",
+            "ts": "1589427335.000600",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "NwT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Thread. "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "100",
+                                    "unicode": "1f4af"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[May 13th, 2020 11:34 PM] choirsoftheeye: yeah but only for a little while",
+                    "ts": "1589427288.161500",
+                    "author_id": "U0SUXE44U",
+                    "author_subname": "Jasper",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "yeah but only for a little while",
+                    "author_name": "Jasper",
+                    "author_link": "https://zellephism.slack.com/team/U0SUXE44U",
+                    "author_icon": "https://avatars.slack-edge.com/2016-04-18/35771724357_728e433445b3f9f7e518_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1589427288161500?thread_ts=1589421599160500&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "From a thread in #public-health"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "still doing this?",
+            "user": "U0CMM0630",
+            "ts": "1589421609.000400",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "v20",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "still doing this?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[May 13th, 2020 9:59 PM] dan: #when-did-you-know-elon-was-a-tool",
+                    "ts": "1589421599.160500",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "text": "#when-did-you-know-elon-was-a-tool",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1589421599160500",
+                    "is_share": true,
+                    "footer": "Posted in #public-health"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "100",
+                    "users": [
+                        "U0STUPF54"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "My favorite stupid covid meme so far:\n```Oh wow. Closing down St. Louis has helped nature so much, the wild Gateway Arches are growing back. You love to see it.```",
+            "files": [
+                {
+                    "id": "F012TDVSQ1F",
+                    "created": 1587674548,
+                    "timestamp": 1587674548,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0VHEB0GY",
+                    "user_team": "T0CMQMQTB",
+                    "editable": false,
+                    "size": 746502,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https://files.slack.com/files-pri/T0CMQMQTB-F012TDVSQ1F/image.png",
+                    "url_private_download": "https://files.slack.com/files-pri/T0CMQMQTB-F012TDVSQ1F/download/image.png",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_64.png",
+                    "thumb_80": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_80.png",
+                    "thumb_360": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 198,
+                    "thumb_480": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 264,
+                    "thumb_160": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_160.png",
+                    "thumb_720": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 396,
+                    "thumb_800": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 440,
+                    "thumb_960": "https://files.slack.com/files-tmb/T0CMQMQTB-F012TDVSQ1F-b15f9a19b6/image_960.png",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 528,
+                    "original_w": 960,
+                    "original_h": 528,
+                    "thumb_tiny": "AwAaADC5ikxVMTye9AnYtgk/nVE2LZ64FHHQ9apB3VgAxx0wKeHfueecZouFiypVs7SDjrigrVGOQxsRnGacHYSk57c+pouFhnlS+x/GgRyA8Y/A1ZFLUl2IRFu+Zic+h5pyx4YMOTzxTxUkX3z9DSApmJufmWkKSHBwOnrVgUxupoCx/9k=",
+                    "permalink": "https://zellephism.slack.com/files/U0VHEB0GY/F012TDVSQ1F/image.png",
+                    "permalink_public": "https://slack-files.com/T0CMQMQTB-F012TDVSQ1F-94a3b954f4",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": true,
+            "user": "U0VHEB0GY",
+            "display_as_bot": false,
+            "ts": "1587674551.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Xozr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "My favorite stupid covid meme so far:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oh wow. Closing down St. Louis has helped nature so much, the wild Gateway Arches are growing back. You love to see it."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "client_msg_id": "a1b431ac-0e94-43b4-8983-f96057c6bcc2"
+        },
+        {
+            "type": "message",
+            "text": "<https://www.youtube.com/watch?v=X9fLbfzCqWw>",
+            "user": "U0CMM0630",
+            "ts": "1586290907.001300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wfx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https://www.youtube.com/watch?v=X9fLbfzCqWw"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[April 7th, 2020 4:21 PM] dan: btw, in case it wasn’t clear :redcard: is a reference to the common practice of penalties in sports, however :yellowcard: refers to the band, yellowcard.",
+                    "ts": "1586290870.170500",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "btw, in case it wasn’t clear :redcard: is a reference to the common practice of penalties in sports, however :yellowcard: refers to the band, yellowcard.",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1586290870170500?thread_ts=1586290450169200&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "From a thread in #public-health"
+                },
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https://www.youtube.com/",
+                    "title": "Yellowcard - Ocean Avenue (Official Video)",
+                    "title_link": "https://www.youtube.com/watch?v=X9fLbfzCqWw",
+                    "author_name": "YellowcardVEVO",
+                    "author_link": "https://www.youtube.com/user/YellowcardVEVO",
+                    "thumb_url": "https://i.ytimg.com/vi/X9fLbfzCqWw/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: Yellowcard - Ocean Avenue (Official Video)",
+                    "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/X9fLbfzCqWw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 300,
+                    "from_url": "https://www.youtube.com/watch?v=X9fLbfzCqWw",
+                    "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                    "id": 1,
+                    "original_url": "https://www.youtube.com/watch?v=X9fLbfzCqWw"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "5932f810-1c1e-43c5-b355-4c33b9b99a6b",
+            "type": "message",
+            "text": "LMAO <@U0STUPF54>",
+            "user": "U0CMM0630",
+            "ts": "1586290127.001200",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ezm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "LMAO "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U0STUPF54"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "Rick, with the save from half court",
+            "user": "U0CMM0630",
+            "ts": "1586290115.000900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hMt=B",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Rick, with the save from half court"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[April 7th, 2020 4:08 PM] rtortora: vote to move to #covid-philosophy-ffa",
+                    "ts": "1586290081.160600",
+                    "author_id": "U0STUPF54",
+                    "author_subname": "Rick",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_thread_root_unfurl": true,
+                    "text": "vote to move to #covid-philosophy-ffa",
+                    "author_name": "Rick",
+                    "author_link": "https://zellephism.slack.com/team/U0STUPF54",
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-01/163187898818_8e033ca0f986b6262ffb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1586290081160600?thread_ts=1586290081160600&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "Thread in #public-health"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "boom",
+            "user": "U0STUPF54",
+            "ts": "1586290092.000800",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "N54W",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "boom"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[April 7th, 2020 4:08 PM] rtortora: vote to move to #covid-philosophy-ffa",
+                    "ts": "1586290081.160600",
+                    "author_id": "U0STUPF54",
+                    "author_subname": "Rick",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "text": "vote to move to #covid-philosophy-ffa",
+                    "author_name": "Rick",
+                    "author_link": "https://zellephism.slack.com/team/U0STUPF54",
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-01/163187898818_8e033ca0f986b6262ffb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1586290081160600",
+                    "is_share": true,
+                    "footer": "Posted in #public-health"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "tasteless really.",
+            "user": "U0CMM0630",
+            "ts": "1586203068.000300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "=QkC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "tasteless really."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[April 6th, 2020 3:57 PM] dan: #covid-19-politics",
+                    "ts": "1586203051.038000",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "C0T1FGXDG",
+                    "channel_name": "politics",
+                    "is_msg_unfurl": true,
+                    "text": "#covid-19-politics",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0T1FGXDG/p1586203051038000",
+                    "is_share": true,
+                    "footer": "Posted in #politics"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "scream",
+                    "users": [
+                        "U0STUPF54"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "nonononononono",
+                    "users": [
+                        "U0VD193PB"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1585852469.000200",
+            "user": "U0VHEB0GY",
+            "text": "<@U0VHEB0GY> has joined the channel"
+        },
+        {
+            "client_msg_id": "6ff7c295-4b51-4986-a137-c780cb9c90ba",
+            "type": "message",
+            "text": "this is terrible, I love it",
+            "user": "U0VD193PB",
+            "ts": "1584731763.001500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "U+K",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "this is terrible, I love it"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1584731737.001300",
+            "user": "U0VD193PB",
+            "text": "<@U0VD193PB> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "This one belongs in the hall of fame. Classic it came from within the channel humor",
+            "user": "U0CMM0630",
+            "ts": "1584649503.001000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qjb9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "This one belongs in the hall of fame. Classic it came from within the channel humor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "edited": {
+                "user": "U0CMM0630",
+                "ts": "1584649517.000000"
+            },
+            "attachments": [
+                {
+                    "fallback": "[March 19th, 2020 4:22 PM] rtortora: #covid-discussion-group-to-elect-panel-to-determine-if-we-are-still-doing-this",
+                    "ts": "1584649356.000900",
+                    "author_id": "U0STUPF54",
+                    "author_subname": "Rick",
+                    "channel_id": "CUTQ5QRT5",
+                    "channel_name": "covid-19-joke-deaths",
+                    "is_msg_unfurl": true,
+                    "text": "#covid-discussion-group-to-elect-panel-to-determine-if-we-are-still-doing-this",
+                    "author_name": "Rick",
+                    "author_link": "https://zellephism.slack.com/team/U0STUPF54",
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-01/163187898818_8e033ca0f986b6262ffb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUTQ5QRT5/p1584649356000900",
+                    "is_share": true,
+                    "footer": "Posted in #covid-19-joke-deaths"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b17e37fe-18c6-4816-b5bc-788896cc7119",
+            "type": "message",
+            "text": "#covid-discussion-group-to-elect-panel-to-determine-if-we-are-still-doing-this",
+            "user": "U0STUPF54",
+            "ts": "1584649356.000900",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "foh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "#covid-discussion-group-to-elect-panel-to-determine-if-we-are-still-doing-this"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "Are we still doing this joke? Not even sure.",
+            "user": "U0CMM0630",
+            "ts": "1584648642.000500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UuQST",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Are we still doing this joke? Not even sure."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 19th, 2020 4:10 PM] dan: Need a #gaming-covid-19 channel",
+                    "ts": "1584648624.000900",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "C0STN14JX",
+                    "channel_name": "gaming",
+                    "is_msg_unfurl": true,
+                    "text": "Need a #gaming-covid-19 channel",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C0STN14JX/p1584648624000900",
+                    "is_share": true,
+                    "footer": "Posted in #gaming"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b21104d7-cdbb-431a-bda9-84a437420a5d",
+            "type": "message",
+            "text": "lol",
+            "user": "U0STUPF54",
+            "ts": "1584449771.000300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "l2hP0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "lol"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "I’ll be honest, I wasn’t even trying",
+            "user": "U0CMM0630",
+            "ts": "1584449044.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "COy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I’ll be honest, I wasn’t even trying"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 17th, 2020 8:43 AM] dan: you should take this to #quarantine-insanity",
+                    "ts": "1584449029.002700",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "C01007T7N5N",
+                    "channel_name": "quarantine-sanity",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "you should take this to #quarantine-insanity",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/C01007T7N5N/p1584449029002700?thread_ts=1584447885000200&cid=C01007T7N5N",
+                    "is_share": true,
+                    "footer": "From a thread in #quarantine-sanity"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "U0STUPF54"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Jasper with the amazingly relevant gif",
+            "user": "U0CMM0630",
+            "ts": "1584111663.009000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lf2W",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Jasper with the amazingly relevant gif"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "giphy: https://giphy.com/gifs/mrw-lord-buckethead-IPosMMzCRthdK",
+                    "image_url": "https://media0.giphy.com/media/IPosMMzCRthdK/giphy-downsized.gif?cid=6104955e44c3921e3835dfa92146895fa5d7dc03ff2d0568&rid=giphy-downsized.gif",
+                    "image_width": 480,
+                    "image_height": 269,
+                    "image_bytes": 1686160,
+                    "is_animated": true,
+                    "title": "knight",
+                    "footer": "Posted using /giphy",
+                    "id": 1,
+                    "title_link": "https://giphy.com/gifs/mrw-lord-buckethead-IPosMMzCRthdK",
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1584111504314400",
+                    "is_share": true
+                }
+            ]
+        },
+        {
+            "client_msg_id": "50c43c52-1e0a-4f32-90a0-1e2e277dd98d",
+            "type": "message",
+            "text": "Tom Hanks is in forced isolation with Wilson. Again!",
+            "user": "U5VDCCWN5",
+            "ts": "1584022622.008500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "92z",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Tom Hanks is in forced isolation with Wilson. Again!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "Jamie, keepin it real",
+            "user": "U0CMM0630",
+            "ts": "1584019307.007800",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8d9Oi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Jamie, keepin it real"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 11th, 2020 6:47 PM] niru72: Do we need a #covid-19-music channel?",
+                    "ts": "1583966876.244100",
+                    "author_id": "U0VHPF3LJ",
+                    "author_subname": "Jamie Macia",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "text": "Do we need a #covid-19-music channel?",
+                    "author_name": "Jamie Macia",
+                    "author_link": "https://zellephism.slack.com/team/U0VHPF3LJ",
+                    "author_icon": "https://avatars.slack-edge.com/2016-05-19/44354692786_9e0a5ffa698a7d67a3a3_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1583966876244100",
+                    "is_share": true,
+                    "footer": "Posted in #public-health"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "ok_hand",
+                    "users": [
+                        "U0STUPF54"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Jasper from mid court!",
+            "user": "U0CMM0630",
+            "ts": "1584019262.007700",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Jd3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Jasper from mid court!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 12th, 2020 8:57 AM] choirsoftheeye: #covid-19-same-twitter",
+                    "ts": "1584017873.273500",
+                    "author_id": "U0SUXE44U",
+                    "author_subname": "Jasper",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "#covid-19-same-twitter",
+                    "author_name": "Jasper",
+                    "author_link": "https://zellephism.slack.com/team/U0SUXE44U",
+                    "author_icon": "https://avatars.slack-edge.com/2016-04-18/35771724357_728e433445b3f9f7e518_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1584017873273500?thread_ts=1583978688269800&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "From a thread in #public-health"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "U0STUPF54"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1583966782.007600",
+            "user": "U0VHPF3LJ",
+            "text": "<@U0VHPF3LJ> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "Rick with the amazing self reference. IT CAME FROM WITHIN THE CHANNEL",
+            "user": "U0CMM0630",
+            "ts": "1583863133.007200",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ItX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Rick with the amazing self reference. IT CAME FROM WITHIN THE CHANNEL"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 10th, 2020 1:53 PM] rtortora: #covid-are-there-too-many-covid-channels-discussion",
+                    "ts": "1583862815.007100",
+                    "author_id": "U0STUPF54",
+                    "author_subname": "Rick",
+                    "channel_id": "CUTQ5QRT5",
+                    "channel_name": "covid-19-joke-deaths",
+                    "is_msg_unfurl": true,
+                    "text": "#covid-are-there-too-many-covid-channels-discussion",
+                    "author_name": "Rick",
+                    "author_link": "https://zellephism.slack.com/team/U0STUPF54",
+                    "author_icon": "https://avatars.slack-edge.com/2017-04-01/163187898818_8e033ca0f986b6262ffb_48.png",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUTQ5QRT5/p1583862815007100",
+                    "is_share": true,
+                    "footer": "Posted in #covid-19-joke-deaths"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "scream",
+                    "users": [
+                        "U0STUPF54"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2f4c65ae-d0cb-4ae1-a610-a8307fe79d75",
+            "type": "message",
+            "text": "#covid-are-there-too-many-covid-channels-discussion",
+            "user": "U0STUPF54",
+            "ts": "1583862815.007100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Iwn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "#covid-are-there-too-many-covid-channels-discussion"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "reactions": [
+                {
+                    "name": "boom",
+                    "users": [
+                        "U0CMM0630"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "e633020e-f42c-4ea3-bfe7-f8c07e103272",
+            "type": "message",
+            "text": "okay how many covid channels are there really, i thought this whole thing was a joke but this channel is real and now i dont know what to think",
+            "user": "U0STUPF54",
+            "ts": "1583862795.006800",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QAXp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "okay how many covid channels are there really, i thought this whole thing was a joke but this channel is real and now i dont know what to think"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "5715a12b-0eda-47e1-bbaf-9461f36a6757",
+            "type": "message",
+            "text": "<https://www.youtube.com/watch?v=u7Ty3fggeBA>",
+            "user": "U5VDCCWN5",
+            "ts": "1583862648.006300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "H9s",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https://www.youtube.com/watch?v=u7Ty3fggeBA"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "service_name": "YouTube",
+                    "service_url": "https://www.youtube.com/",
+                    "title": "I Know I'm Funny",
+                    "title_link": "https://www.youtube.com/watch?v=u7Ty3fggeBA",
+                    "author_name": "mattlela",
+                    "author_link": "https://www.youtube.com/user/mattlela",
+                    "thumb_url": "https://i.ytimg.com/vi/u7Ty3fggeBA/hqdefault.jpg",
+                    "thumb_width": 480,
+                    "thumb_height": 360,
+                    "fallback": "YouTube Video: I Know I'm Funny",
+                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/u7Ty3fggeBA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                    "video_html_width": 400,
+                    "video_html_height": 225,
+                    "from_url": "https://www.youtube.com/watch?v=u7Ty3fggeBA",
+                    "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+                    "id": 1,
+                    "original_url": "https://www.youtube.com/watch?v=u7Ty3fggeBA"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "ac92e466-0248-4e5f-8ee2-73a8b299b40b",
+            "type": "message",
+            "text": "I tweeted that yesterday, and it’s gotten 0 RTs and 0 likes",
+            "user": "U5VDCCWN5",
+            "ts": "1583862597.006000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Fjj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I tweeted that yesterday, and it’s gotten 0 RTs and 0 likes"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "57001bb4-9def-40d7-b57c-34c732743548",
+            "type": "message",
+            "text": ":clap:",
+            "user": "U0STUPF54",
+            "ts": "1583862566.005500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OaM5n",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "clap",
+                                    "unicode": "1f44f"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "a5e7a852-89d1-45e6-8a9c-bb171f94e128",
+            "type": "message",
+            "text": "I’m here all week",
+            "user": "U5VDCCWN5",
+            "ts": "1583862563.005300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qky",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I’m here all week"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "b2a33a8f-e732-4632-a585-a136280a9e31",
+            "type": "message",
+            "text": "ba-dum-tshhh",
+            "user": "U5VDCCWN5",
+            "ts": "1583862553.005000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BSE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ba-dum-tshhh"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "25cdf2fd-fdbc-4161-a9b9-08c39989a793",
+            "type": "message",
+            "text": "oh man, I hope “gas mask Gaetz” sticks",
+            "user": "U0CMM0630",
+            "ts": "1583862549.004800",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4FKmb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "oh man, I hope “gas mask Gaetz” sticks"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "edited": {
+                "user": "U0CMM0630",
+                "ts": "1583862559.000000"
+            }
+        },
+        {
+            "client_msg_id": "21c02807-c2cc-4f86-bb23-a44a9d372e0e",
+            "type": "message",
+            "text": "nice.",
+            "user": "U0CMM0630",
+            "ts": "1583862543.004300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4bOTY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "nice."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "53f96699-d46c-4ded-80c9-e2f07d02bb1c",
+            "type": "message",
+            "text": "Life came fast at gas mask Gaetz",
+            "user": "U5VDCCWN5",
+            "ts": "1583862529.004000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qir9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Life came fast at gas mask Gaetz"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1583862517.003600",
+            "user": "U0STUPF54",
+            "text": "<@U0STUPF54> has joined the channel"
+        },
+        {
+            "client_msg_id": "1165ef75-e313-49b6-90ca-63d279fcf541",
+            "type": "message",
+            "text": "I came up with a headline candidate for a news story about him:",
+            "user": "U5VDCCWN5",
+            "ts": "1583862507.003400",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "r=U",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I came up with a headline candidate for a news story about him:"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "f12ef23a-8cc6-4aec-acbb-2b7f3813499a",
+            "type": "message",
+            "text": "yeah, I saw that",
+            "user": "U0CMM0630",
+            "ts": "1583862501.003000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9GN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "yeah, I saw that"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "client_msg_id": "02894aed-d39a-46fc-87cd-cbf292ef163a",
+            "type": "message",
+            "text": "You know that Dan Gaetz who wore a gas mask in the congress hearing about coronavirus funding first had a constituent of his die of the virus, and is now quarantined after shaking hands with a CPAC participant who since tested positive for the virus?",
+            "user": "U5VDCCWN5",
+            "ts": "1583862482.002500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pwXOG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "You know that Dan Gaetz who wore a gas mask in the congress hearing about coronavirus funding first had a constituent of his die of the virus, and is now quarantined after shaking hands with a CPAC participant who since tested positive for the virus?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB"
+        },
+        {
+            "type": "message",
+            "text": "I’m REALLY REALLY proud of this one",
+            "user": "U0CMM0630",
+            "ts": "1583861728.000800",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "COOL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "I’m REALLY REALLY proud of this one"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 10th, 2020 1:35 PM] dan: ugh, stupid off by 49 errors",
+                    "ts": "1583861710.185600",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "ugh, stupid off by 49 errors",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1583861710185600?thread_ts=1583860518182200&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "From a thread in #public-health"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1583861028.000700",
+            "user": "U5VDCCWN5",
+            "text": "<@U5VDCCWN5> has joined the channel"
+        },
+        {
+            "type": "message",
+            "text": "two from the same thread!",
+            "user": "U0CMM0630",
+            "ts": "1583860848.000500",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/hvVD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "two from the same thread!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 10th, 2020 1:20 PM] choirsoftheeye: #covid-19-things-stupid-dan-would-say",
+                    "ts": "1583860800.184800",
+                    "author_id": "U0SUXE44U",
+                    "author_subname": "Jasper",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "#covid-19-things-stupid-dan-would-say",
+                    "author_name": "Jasper",
+                    "author_link": "https://zellephism.slack.com/team/U0SUXE44U",
+                    "author_icon": "https://avatars.slack-edge.com/2016-04-18/35771724357_728e433445b3f9f7e518_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1583860800184800?thread_ts=1583860518182200&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "From a thread in #public-health"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "is this joke dead now?",
+            "user": "U0CMM0630",
+            "ts": "1583860827.000400",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WqF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "is this joke dead now?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 10th, 2020 1:18 PM] dan: damnit, ugh, stupid off by 50 errors",
+                    "ts": "1583860719.184600",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_reply_unfurl": true,
+                    "text": "damnit, ugh, stupid off by 50 errors",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1583860719184600?thread_ts=1583860518182200&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "From a thread in #public-health"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Oh man.",
+            "user": "U0CMM0630",
+            "ts": "1583860599.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "d0S4T",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oh man."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 10th, 2020 1:16 PM] dan: do we need a #covid-19-things-stupid-dan-would-say channel?",
+                    "ts": "1583860586.183400",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "text": "do we need a #covid-19-things-stupid-dan-would-say channel?",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1583860586183400",
+                    "is_share": true,
+                    "footer": "Posted in #public-health"
+                }
+            ],
+            "thread_ts": "1583860599.000100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1583860607.000200",
+            "reply_users": [
+                "U0CMM0630"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        {
+            "type": "message",
+            "text": "",
+            "user": "U0CMM0630",
+            "ts": "1583847566.000300",
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 10th, 2020 8:15 AM] dan: Should have posted that in #covid-19-mortgages",
+                    "ts": "1583842515.168000",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "is_thread_root_unfurl": true,
+                    "text": "Should have posted that in #covid-19-mortgages",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1583842515168000?thread_ts=1583842515168000&cid=CUFLCST5F",
+                    "is_share": true,
+                    "footer": "Thread in #public-health"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1583847546.000200",
+            "user": "U0CMM0630",
+            "text": "<@U0CMM0630> has joined the channel"
+        }
+    ],
+    "has_more": false,
+    "pin_count": 0,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}

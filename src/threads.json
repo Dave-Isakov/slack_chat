@@ -1,0 +1,191 @@
+{
+    "messages": [
+        {
+            "client_msg_id": "48fbde13-3e6d-4ee9-b6a6-4a550e84e91d",
+            "type": "message",
+            "text": "i feel like i did not adequately get that joke",
+            "user": "U0SUXE44U",
+            "ts": "1594729482.001000",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "kNv3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "i feel like i did not adequately get that joke"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "thread_ts": "1594729482.001000",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1594736970.001300",
+            "reply_users": [
+                "U0VHPF3LJ",
+                "U0SUXE44U"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "0cfbf81a-87cb-4e0c-8018-95f11ecb86ed",
+            "type": "message",
+            "text": "In physics, specifically classical mechanics, it's common to phrase word problems with real world objects like baseballs or chickens and then reduce the scope of the math in the problem by making assertions about shape or uniformity. \"A spherical X of uniform density\" is a common physics problem trope.",
+            "user": "U0VHPF3LJ",
+            "ts": "1594736570.001100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Nri",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "In physics, specifically classical mechanics, it's common to phrase word problems with real world objects like baseballs or chickens and then reduce the scope of the math in the problem by making assertions about shape or uniformity. \"A spherical X of uniform density\" is a common physics problem trope."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "thread_ts": "1594729482.001000",
+            "parent_user_id": "U0SUXE44U"
+        },
+        {
+            "client_msg_id": "c8f0e071-be17-4fc1-acd8-8f2cf2c36c93",
+            "type": "message",
+            "text": "ahhhhh yeah that would've been funnier if i'd taken a college-level physics class",
+            "user": "U0SUXE44U",
+            "ts": "1594736970.001300",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jh55q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ahhhhh yeah that would've been funnier if i'd taken a college-level physics class"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "thread_ts": "1594729482.001000",
+            "parent_user_id": "U0SUXE44U",
+            "reactions": [
+                {
+                    "name": "atom_symbol",
+                    "users": [
+                        "U0VHPF3LJ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "aperturescience",
+                    "users": [
+                        "U0VHPF3LJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Oh man.",
+            "user": "U0CMM0630",
+            "ts": "1583860599.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "d0S4T",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Oh man."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "attachments": [
+                {
+                    "fallback": "[March 10th, 2020 1:16 PM] dan: do we need a #covid-19-things-stupid-dan-would-say channel?",
+                    "ts": "1583860586.183400",
+                    "author_id": "U0CMM0630",
+                    "author_subname": "Dan Hore",
+                    "channel_id": "CUFLCST5F",
+                    "channel_name": "public-health",
+                    "is_msg_unfurl": true,
+                    "text": "do we need a #covid-19-things-stupid-dan-would-say channel?",
+                    "author_name": "Dan Hore",
+                    "author_link": "https://zellephism.slack.com/team/U0CMM0630",
+                    "author_icon": "https://avatars.slack-edge.com/2016-03-15/26947457686_9ed43ff274d2f72d27d2_48.jpg",
+                    "mrkdwn_in": [
+                        "text"
+                    ],
+                    "color": "D0D0D0",
+                    "from_url": "https://zellephism.slack.com/archives/CUFLCST5F/p1583860586183400",
+                    "is_share": true,
+                    "footer": "Posted in #public-health"
+                }
+            ],
+            "thread_ts": "1583860599.000100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1583860607.000200",
+            "reply_users": [
+                "U0CMM0630"
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "0c1392eb-94f3-4433-9d01-e72a4649e5d8",
+            "type": "message",
+            "text": "even I think this one was a stretch",
+            "user": "U0CMM0630",
+            "ts": "1583860607.000200",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iL7na",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "even I think this one was a stretch"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0CMQMQTB",
+            "thread_ts": "1583860599.000100",
+            "parent_user_id": "U0CMM0630"
+        }
+    ]
+}
